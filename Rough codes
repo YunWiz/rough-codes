@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Rough projects</title>
+</head>
+
+<body align="center">
+    <div style="background-color:#042938; color:#ECF3F5;padding:20px">
+        <h1><span><strong>ABOUT ME</strong></span></h1>
+        <p>My name is <b><i>Emmanuel Izuchukwu</i></b>,I am <b>20</b> years old.I am a <ins>programmer</ins>, I love coding so much because it is my hobby.</p>
+        <hr width="150%" align="center" color="red" />
+
+        <h2>THIS IS MY PHOTO</h2>
+        <img src="14885984_363384947336996_867760015_n.jpg " align="center " />
+        <p align="center ">This photo was taken when i was just <b>3</b> years old.<br/>I have many skills,but on this page i will be <i>listing</i> only but a few. </p>
+        <ol align="center">
+            <li>HTML CODING SKILL</li>
+            <li>CSS CODING SKILL</li>
+            <li>JAVASCRIPT CODING SKILLS</li>
+            <li>RUBY AND RUBY ON RAILS CODING SKILLS</li>
+            <li>PHP CODING SKILL</li>
+        </ol>
+        <sup>to mention but a few,i have listed the few <sub>above.</sub></sup>
+        <p><ins>apart from programming skills,there are many other skills wich i also have,<br/>they are as follows</ins></p>
+        <ul>
+            <li>skiing</li>
+            <li>Dancing</li>
+            <li>playing soccer</li>
+            <li>swimming</li>
+            <li>biikng</li>
+            <li>cycling</li>
+        </ul>
+        <hr width="150%" color="yellow" />
+        <h3><b><srong>MY ACADEMIC PERFORMANCE</srong></b></h3>
+        <b>here are some of my academic performance for the semester</b>h
+        <table border="4" bordercolor="white" align="center">
+            <tr>
+                <td colspan="9">Subjects and scores</td>
+            </tr>
+            <tr>
+                <td>Maths</td>
+                <td>English</td>
+                <td>Biology</td>
+                <td>Computer Science</td>
+                <td>Chemistry</td>
+                <td>Physics</td>
+                <td>CivicEducation</td>
+                <td>geography</td>
+                <td>igbo Language</td>
+            </tr>
+            <tr>
+                <td>70</td>
+                <td>80</td>
+                <td>70</td>
+                <td>100</td>
+                <td>70</td>
+                <td>60</td>
+                <td>80</td>
+                <td>99</td>
+                <td>98</td>
+            </tr>
+        </table>
+        <p></p>
+        <h4>MY DAILY SCHEDULE</h4>
+        <table border="3" bordercolor="blue" bgcolor="pale" align="center">
+            <tr>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+            </tr>
+            <tr>
+                <td>8:00-8:30</td>
+                <td class="selected">Write</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>8:30-9:30</td>
+                <td></td>
+                <td class="selected">Learn</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9:30-10:30</td>
+                <td></td>
+                <td></td>
+                <td class="selected">practice</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10:30-11:30</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="selected">play</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>11:30-12:30</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="selected">discuss</td>
+            </tr>
+
+        </table>
+    </div>
+</body>
+
+</html>
